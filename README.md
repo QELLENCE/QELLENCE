@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QELLENCE
-- 👀 I’m interested in learning data science with python skills
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in blockchain technology
+- 🌱 I’m currently learning ...python, web3, solidty and full stack
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...fredricoddongo@gmail.com
 
